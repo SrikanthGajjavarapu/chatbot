@@ -1,1 +1,1 @@
-#creating chatgpt using python.
+#Creating chatbot using chatgpt
